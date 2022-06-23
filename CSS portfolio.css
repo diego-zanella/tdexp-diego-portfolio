@@ -1,0 +1,21 @@
+.imagem{
+    height: 20%;
+    width: auto;
+    max-width: 20%;
+    border-radius: 50%;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: black;
+}
+.nome{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: black;
+}
